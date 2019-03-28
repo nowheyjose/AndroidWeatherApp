@@ -9,4 +9,4 @@
 /build
 /captures
 .externalNativeBuild
-../app/src/main/java/com/example/jose_diaz/androidweatherapp/Common/Common.java
+/Common/Common.java
